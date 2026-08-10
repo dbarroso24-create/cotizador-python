@@ -1,0 +1,14 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Base de datos SQLite local
+datos/*.db
+
+# Configuración local de Streamlit
+.streamlit/secrets.toml
